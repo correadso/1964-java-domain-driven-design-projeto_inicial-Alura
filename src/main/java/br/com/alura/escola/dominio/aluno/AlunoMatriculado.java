@@ -25,5 +25,5 @@ public class AlunoMatriculado implements Evento {
 	public CPF getCpfDoAluno() {
 		return cpfDoAluno;
 	}
-
+	
 }
